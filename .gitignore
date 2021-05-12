@@ -1,0 +1,5 @@
+.venv
+.vscode
+output/
+.ipynb
+__pycache__

@@ -1,0 +1,5 @@
+
+SURVEY_INPUT_FOLDER = 'data'
+SURVEY_FILENAME = 'survey_1.csv'
+SURVEY_OUTPUT_FOLDER = 'output'
+SURVEY_IMAGE_NAME = "analyse.png"
