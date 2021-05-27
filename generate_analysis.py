@@ -1,5 +1,8 @@
 import argparse
+import pandas
+import os 
 from plot import plot_analysis
+
 
 def generate_analysis():
     parser = argparse.ArgumentParser()
